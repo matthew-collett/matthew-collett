@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on development with my Raspberry Pi<br>🌱 I’m currently learning cloud technologies<br>💬 Ask me about my love for learning<br>⚡ Fun Fact: I am an avid speed cuber
 # 💻 Tech Stack:
