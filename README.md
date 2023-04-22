@@ -48,14 +48,14 @@ I am a naturally curious individual and I love to learn. My enthusiasm for acqui
 ### Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ### Other Technologies
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-0000ff?logo=confluence&style=for-the-badge&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-C81F6D?style=for-the-badge&logo=consul&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-3eBFB0?style=for-the-badge&logo=kibana&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-C81F6D?style=for-the-badge&logo=consul&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
 <img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthew-collett&theme=vue-dark&hide_border=false" /> <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-collett&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
