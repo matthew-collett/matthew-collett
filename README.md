@@ -58,4 +58,4 @@ I am a naturally curious individual and I love to learn. My enthusiasm for acqui
 ![Kibana](https://img.shields.io/badge/Kibana-3eBFB0?style=for-the-badge&logo=kibana&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-C81F6D?style=for-the-badge&logo=consul&logoColor=white)
 # 📊 GitHub Stats:
-<img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthew-collett&theme=vue-dark&hide_border=true&border_radius=0" /> <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-collett&theme=vue-dark&include_all_commits=true&count_private=true&layout=compact&hide_border=true&border_radius=0" />
+<img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matthew-collett&theme=vue-dark&hide_border=false" /> <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-collett&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
