@@ -1,6 +1,6 @@
 # 💫 About Me
 ### Hi there 👋
-I'm a third-year Softwaring Engineering student with a strong passion for problem-solving, technology, and its latest advancements.
+I'm a third-year Software Engineering student with a strong passion for problem-solving, technology, and its latest advancements.
 
 During my free time, I enjoy exploring software design and development. I also enjoy a variety of hobbies such as speed-cubing, chess, playing guitar, and cooking.
 
