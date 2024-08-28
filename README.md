@@ -2,8 +2,6 @@
 ### Hi 👋
 I'm a fifth-year software engineering student with a strong passion for problem solving, technology, and its latest advancements.
 
-During my free time, I enjoy exploring software design and development. I also enjoy a variety of hobbies such as speed-cubing, chess, playing guitar, and cooking.
-
 # 💻 Technologies I Use
 ### Programming Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
